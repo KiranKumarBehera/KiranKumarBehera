@@ -8,10 +8,10 @@ I'm Kiran Kumar Behera from India, and I am a front-end web developer, competiti
 ##Skills and Experience
 * ⚛ React
 * 🎨 HTML, CSS, JS, AdobePS, Canva
-* 👩‍💻 C++, Python, OpenCV
+* 👩‍💻 C++, Python
+* - 🌱 I’m currently learning OpenCV Python 
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning OpenCV Python 
 - 📫 How to reach me: hero.kk07@gmail.com 
 
 
