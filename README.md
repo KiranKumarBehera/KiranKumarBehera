@@ -1,6 +1,7 @@
+![I am GitHub Readme Generator's creator](https://media-exp1.licdn.com/dms/image/C4E16AQFSxrgnPKxnXw/profile-displaybackgroundimage-shrink_200_800/0/1626780178101?e=1639612800&v=beta&t=DoQTol4FvysK_4I3VrNEIjznOrSdgDfN57p8gpOqF8o)
+
 # Hi there 👋, I'm Kiran
 #### Learn and Hustle
-![I am GitHub Readme Generator's creator](https://media-exp1.licdn.com/dms/image/C4E16AQFSxrgnPKxnXw/profile-displaybackgroundimage-shrink_200_800/0/1626780178101?e=1639612800&v=beta&t=DoQTol4FvysK_4I3VrNEIjznOrSdgDfN57p8gpOqF8o)
 
 I'm Kiran Kumar Behera from India, and I am a front-end web developer, competitive coder, Graphic Designer and a newbie in OpenCV Python. I'm an active learner by day and singer by night. Apart from that, I love Dogs. You can connect with me on Linkedin at linkedin.com/in/kiran-kumar-511198212 or follow me on Instagram at instagram.com/_._.k_i_r_a_n._._
 
