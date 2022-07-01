@@ -7,9 +7,9 @@ I'm Kiran Kumar Behera from India, and I am a front-end web developer, competiti
 
 ## Skills and Experience
 * ⚛ React
-* 🎨 HTML, CSS, JS, AdobePS, Canva
+* 🎨 HTML, CSS, JS, Material-UI, Firebase, Figma, AdobePS, Canva
 * 👩‍💻 C++, Python
-* 🌱 I’m currently learning OpenCV Python 
+* 🌱 I’m currently learning as well as implementing my front-end development skills at BagCampus.in as an intern. 
 
  
 --- 📧 How to reach me: hero.kk07@gmail.com 
