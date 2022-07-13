@@ -1,4 +1,3 @@
-![I am GitHub Readme Generator's creator](https://media-exp1.licdn.com/dms/image/C4E16AQFSxrgnPKxnXw/profile-displaybackgroundimage-shrink_200_800/0/1626780178101?e=1639612800&v=beta&t=DoQTol4FvysK_4I3VrNEIjznOrSdgDfN57p8gpOqF8o)
 
 # Hi there 👋, I'm Kiran
 #### Learn and Hustle
