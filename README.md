@@ -2,12 +2,13 @@
 # Hi there 👋, I'm Kiran
 #### Learn and Hustle
 
-I'm Kiran Kumar Behera from India, and I am a front-end web developer, competitive coder, Graphic Designer and a newbie in OpenCV Python. I'm an active learner by day and singer by night. Apart from that, I love Dogs. You can connect with me on Linkedin at linkedin.com/in/kiran-kumar-behera-511198212 or follow me on Instagram at instagram.com/_._.k_i_r_a_n._._
+I'm Kiran Kumar Behera from India, and I am a Full-Stack Java developer, competitive coder and a Graphic Designer. I'm an active learner by day and singer by night. Apart from that, I love Dogs. You can connect with me on Linkedin at linkedin.com/in/kiran-kumar-behera-511198212 or follow me on Instagram at instagram.com/_._.k_i_r_a_n._._
 
 ## Skills and Experience
+* 👨🏻‍💻 JSE, JEE, SpringBoot, Micro-Service, Hibernate, and Restful WEB-Services, Kafka, RabbitMQ, Jenkins, Github
 * ⚛ React
 * 🎨 HTML, CSS, JS, Material-UI, Firebase, Figma, AdobePS, Canva
-* 👩‍💻 C++, Java, Python, MySQL
+* 👩‍💻 Java, C++, Python, MySQL
 
  
 --- 📧 How to reach me: hero.kk07@gmail.com 
